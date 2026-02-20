@@ -59,8 +59,7 @@ Imagine que você tem 30 workflows ativos no seu ambiente n8n. Este fluxo criar�
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Matheus Névoa](https://www.linkedin.com/in/matheusnevoa/)**  
-Especialista em automações com n8n, Fluig e integrações corporativas.
+Desenvolvido por **[Matheus Névoa](https://www.linkedin.com/in/eumiqueiasbrandao/)**
 
 ---
 
